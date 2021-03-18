@@ -1,1 +1,7 @@
 git text
+
+commit 1
+Hi Git!
+
+commit 2
+Bye Git!
