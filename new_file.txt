@@ -5,3 +5,9 @@ Hi Git!
 
 commit 2
 Bye Git!
+
+branch_2 commit 1
+Long time no see Git!
+
+branch_2 commit 2
+See you Git!
